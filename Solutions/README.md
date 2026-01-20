@@ -42,6 +42,8 @@ Solutions/
 └── 09-Advanced-Queries-solutions.sql
 ```
 
+Note: Additional solution files are being added progressively. Start with fundamentals!
+
 ## Tips for Learning from Solutions
 
 1. **Type it out** - Don't just read, type the solution yourself
